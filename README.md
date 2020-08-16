@@ -8,5 +8,5 @@ The task is to classify every input timeframe according to the phoneme it belong
 The input data is characterised as a sequence of vectors of 26 coefficients, consisting of twelve Mel-frequency cepstral coefficients (MFCC).
 
 ### Network Architectures to be compared:
-- Multi Layer Perceptron with 10 context windows (in both directiions)
+- Multi Layer Perceptron with 10 context windows (in both directions)
 - Bidirectional Recurrent Neural Network
