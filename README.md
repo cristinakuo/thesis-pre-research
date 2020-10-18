@@ -11,3 +11,4 @@ Input data is characterised as a sequence of vectors of Mel-frequency cepstral c
 - Multi Layer Perceptron with 10 context windows (in both directions)
 - Bidirectional Recurrent Neural Network
 - Bidirectional Long-Short Term Memory Neural Network
+- BLSTM + Connectionist Temporal Classification
